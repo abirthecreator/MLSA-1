@@ -27090,9 +27090,9 @@ var _stylesCss = require("./styles.css");
     name: "Abir Roy",
     title: "Full Stack Developer",
     email: "theabirroy@gmail.com",
-    gitHub: "https://github.com/abirthecreator",
+    gitHub: "abirthecreator",
     instagram: "",
-    linkedIn: "https://www.linkedin.com/in/theabirroy/",
+    linkedIn: "theabirroy/",
     medium: "",
     twitter: "",
     youTube: ""
